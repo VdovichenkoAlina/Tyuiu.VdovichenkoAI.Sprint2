@@ -34,8 +34,8 @@ namespace Tyuiu.VdovichenkoAI.Sprint2.Task0.V19
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                         ");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("X = " + x);
-            Console.WriteLine("Y = " + y);
+            Console.WriteLine("x = " + x);
+            Console.WriteLine("y = " + y);
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                               ");
             Console.WriteLine("***************************************************************************");
